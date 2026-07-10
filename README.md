@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Rithesh0115/LC/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Rithesh0115/LC/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
