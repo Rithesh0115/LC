@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rithesh0115/LC/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Rithesh0115/LC/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
