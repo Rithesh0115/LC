@@ -33,6 +33,7 @@
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Rithesh0115/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
