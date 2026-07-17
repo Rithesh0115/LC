@@ -44,6 +44,7 @@
 | [0189-rotate-array](https://github.com/Rithesh0115/LC/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh0115/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
