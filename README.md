@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +85,16 @@
 | ------- |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
