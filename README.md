@@ -27,6 +27,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rithesh0115/LC/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh0115/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,8 +77,10 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
