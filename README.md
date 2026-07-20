@@ -50,6 +50,7 @@
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh0115/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh0115/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
