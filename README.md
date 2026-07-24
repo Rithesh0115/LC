@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Rithesh0115/LC/tree/master/0605-can-place-flowers) |
 | [1470-shuffle-the-array](https://github.com/Rithesh0115/LC/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rithesh0115/LC/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Rithesh0115/LC/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
