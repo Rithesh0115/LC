@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/Rithesh0115/LC/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rithesh0115/LC/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh0115/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Rithesh0115/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
