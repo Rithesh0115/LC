@@ -1,17 +1,15 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        Arrays.sort(nums);
-        int max=Integer.MIN_VALUE;
-        int smax=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]>max ||nums[i]==max){
-                smax=max;
-                max=nums[i];
-
-             } 
+        int max1 = 0;
+        int max2 = 0;
+        for (int num : nums) {
+            if (num > max1) {
+                max2 = max1;
+                max1 = num;
+            }
+            else if (num > max2)
+                max2 = num;
         }
-        return (smax-1)*(max-1);
-
-        
+        return (max1 - 1) * (max2 - 1);
     }
 }
