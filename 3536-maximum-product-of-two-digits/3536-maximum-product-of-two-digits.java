@@ -6,7 +6,7 @@ class Solution {
         
         while(n>0){
             int num=n%10;
-            if(num>max1){
+            if(num>=max1){
                 max2=max1;
                 max1=num;
             }else if(num>max2){
