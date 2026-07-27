@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Rithesh0115/LC/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rithesh0115/LC/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -58,6 +59,7 @@
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh0115/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -76,6 +78,7 @@
 | [0169-majority-element](https://github.com/Rithesh0115/LC/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
