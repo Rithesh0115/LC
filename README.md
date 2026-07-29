@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rithesh0115/LC/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithesh0115/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rithesh0115/LC/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Rithesh0115/LC/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rithesh0115/LC/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh0115/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Rithesh0115/LC/tree/master/0169-majority-element) |
