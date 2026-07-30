@@ -67,6 +67,7 @@
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Rithesh0115/LC/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -102,6 +103,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Rithesh0115/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Rithesh0115/LC/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
@@ -129,6 +131,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Rithesh0115/LC/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rithesh0115/LC/tree/master/1929-concatenation-of-array) |
 ## Number Theory
