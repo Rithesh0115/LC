@@ -75,6 +75,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh0115/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/Rithesh0115/LC/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh0115/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3516-find-closest-person](https://github.com/Rithesh0115/LC/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rithesh0115/LC/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh0115/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
