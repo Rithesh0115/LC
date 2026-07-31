@@ -65,6 +65,7 @@
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Rithesh0115/LC/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Rithesh0115/LC/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Rithesh0115/LC/tree/master/0412-fizz-buzz) |
