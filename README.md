@@ -86,6 +86,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Rithesh0115/LC/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Rithesh0115/LC/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Rithesh0115/LC/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -163,4 +164,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rithesh0115/LC/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
