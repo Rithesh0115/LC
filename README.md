@@ -87,6 +87,7 @@
 | [0035-search-insert-position](https://github.com/Rithesh0115/LC/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rithesh0115/LC/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rithesh0115/LC/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Rithesh0115/LC/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -168,4 +169,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rithesh0115/LC/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rithesh0115/LC/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
