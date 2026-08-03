@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rithesh0115/LC/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rithesh0115/LC/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Rithesh0115/LC/tree/master/0189-rotate-array) |
