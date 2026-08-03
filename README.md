@@ -69,6 +69,7 @@
 | [0007-reverse-integer](https://github.com/Rithesh0115/LC/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rithesh0115/LC/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Rithesh0115/LC/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rithesh0115/LC/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Rithesh0115/LC/tree/master/0263-ugly-number) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rithesh0115/LC/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rithesh0115/LC/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rithesh0115/LC/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rithesh0115/LC/tree/master/0374-guess-number-higher-or-lower) |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rithesh0115/LC/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rithesh0115/LC/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
