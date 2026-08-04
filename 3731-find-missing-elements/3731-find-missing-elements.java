@@ -17,9 +17,7 @@ class Solution {
                 list.add(i);
             }
         }
-
-        
-        return list;
+         return list;
         
     }
 }
