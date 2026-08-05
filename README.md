@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Rithesh0115/LC/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rithesh0115/LC/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rithesh0115/LC/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Rithesh0115/LC/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rithesh0115/LC/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh0115/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rithesh0115/LC/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@
 | [0007-reverse-integer](https://github.com/Rithesh0115/LC/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rithesh0115/LC/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Rithesh0115/LC/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rithesh0115/LC/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rithesh0115/LC/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
