@@ -34,6 +34,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rithesh0115/LC/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh0115/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3701-compute-alternating-sum](https://github.com/Rithesh0115/LC/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rithesh0115/LC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -49,6 +50,7 @@
 | [0202-happy-number](https://github.com/Rithesh0115/LC/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0278-first-bad-version](https://github.com/Rithesh0115/LC/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rithesh0115/LC/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Rithesh0115/LC/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0414-third-maximum-number](https://github.com/Rithesh0115/LC/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rithesh0115/LC/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
 ## String
