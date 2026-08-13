@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rithesh0115/LC/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rithesh0115/LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Rithesh0115/LC/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rithesh0115/LC/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Rithesh0115/LC/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rithesh0115/LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rithesh0115/LC/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
