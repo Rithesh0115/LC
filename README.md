@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rithesh0115/LC/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh0115/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rithesh0115/LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rithesh0115/LC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@
 | [0229-majority-element-ii](https://github.com/Rithesh0115/LC/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh0115/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
