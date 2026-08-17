@@ -110,6 +110,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh0115/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/Rithesh0115/LC/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rithesh0115/LC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh0115/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rithesh0115/LC/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Rithesh0115/LC/tree/master/3516-find-closest-person) |
