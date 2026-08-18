@@ -23,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/Rithesh0115/LC/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Rithesh0115/LC/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh0115/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rithesh0115/LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -248,5 +249,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
