@@ -42,6 +42,7 @@
 | [1929-concatenation-of-array](https://github.com/Rithesh0115/LC/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh0115/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rithesh0115/LC/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Rithesh0115/LC/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3701-compute-alternating-sum](https://github.com/Rithesh0115/LC/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
@@ -257,6 +258,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rithesh0115/LC/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rithesh0115/LC/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Rithesh0115/LC/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
