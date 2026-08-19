@@ -37,6 +37,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rithesh0115/LC/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Rithesh0115/LC/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rithesh0115/LC/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh0115/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -254,6 +255,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Rithesh0115/LC/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Rithesh0115/LC/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rithesh0115/LC/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
