@@ -1,14 +1,13 @@
 class Solution {
     public int findMiddleIndex(int[] nums) {
         int leftsum=0;
-        int rightsum=0;
         int totalsum=0;
 
-        for(int i=0;i<nums.length;i++){
-            totalsum+=nums[i];
+        for(int i:nums){
+            totalsum+=i;
         }
         for(int i=0;i<nums.length;i++){
-            rightsum=totalsum-leftsum-nums[i];
+            int rightsum=totalsum-leftsum-nums[i];
             if(leftsum==rightsum){
                 return i;
             }
