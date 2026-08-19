@@ -32,6 +32,7 @@
 | [0605-can-place-flowers](https://github.com/Rithesh0115/LC/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Rithesh0115/LC/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Rithesh0115/LC/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Rithesh0115/LC/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rithesh0115/LC/tree/master/1470-shuffle-the-array) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Rithesh0115/LC/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
