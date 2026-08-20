@@ -3,29 +3,22 @@ class Solution {
     {
      int[] arr1=new int[nums.length];
      int[] arr2=new int[nums.length];
-     int index1 = 1;
-     int index2 = 1;
+     int in1= 1;
+     int in2=1;
      arr1[0]=nums[0];
      arr2[0]=nums[1];   
      for(int i=2;i<nums.length;i++){
-        if(arr1[index1-1]>arr2[index2-1]){
-             arr1[index1]=nums[i];
-             index1++;
-
+        if(arr1[in1-1]>arr2[in2-1]){
+             arr1[in1]=nums[i];
+             in1++;
         }else{
-             arr2[index2]=nums[i];
-             index2++;
+             arr2[in2]=nums[i];
+             in2++;
         }
      }
-     int[] result=new int[nums.length];
-     int k=0;
-     for(int i=0;i<index1;i++){
-        result[k++]=arr1[i];
-    }
-    for(int i=0;i<index2;i++){
-        result[k++]=arr2[i];
-    }
-    return result;
-
+     for(int i=0;i<in2;i++){
+        arr1[in1++]=arr2[i];
+     }
+     return arr1;
     }
 }
