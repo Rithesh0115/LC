@@ -29,6 +29,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rithesh0115/LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rithesh0115/LC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh0115/LC/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithesh0115/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rithesh0115/LC/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Rithesh0115/LC/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rithesh0115/LC/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh0115/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithesh0115/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithesh0115/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rithesh0115/LC/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rithesh0115/LC/tree/master/1588-sum-of-all-odd-length-subarrays) |
