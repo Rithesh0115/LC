@@ -48,6 +48,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rithesh0115/LC/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Rithesh0115/LC/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rithesh0115/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rithesh0115/LC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -96,6 +97,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh0115/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rithesh0115/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
