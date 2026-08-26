@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rithesh0115/LC/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Rithesh0115/LC/tree/master/0021-merge-two-sorted-lists) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -276,4 +277,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rithesh0115/LC/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rithesh0115/LC/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
