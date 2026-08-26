@@ -281,4 +281,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rithesh0115/LC/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rithesh0115/LC/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
