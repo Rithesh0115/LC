@@ -103,6 +103,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rithesh0115/LC/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithesh0115/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Rithesh0115/LC/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rithesh0115/LC/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh0115/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rithesh0115/LC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3945-digit-frequency-score](https://github.com/Rithesh0115/LC/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
