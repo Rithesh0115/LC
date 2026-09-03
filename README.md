@@ -297,4 +297,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rithesh0115/LC/tree/master/0141-linked-list-cycle) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Rithesh0115/LC/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
