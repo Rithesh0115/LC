@@ -55,6 +55,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Rithesh0115/LC/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rithesh0115/LC/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Rithesh0115/LC/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rithesh0115/LC/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Rithesh0115/LC/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rithesh0115/LC/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Rithesh0115/LC/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rithesh0115/LC/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
 | ------- |
