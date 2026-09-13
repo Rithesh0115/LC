@@ -1,35 +1,25 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        ArrayList<Integer> ans=new ArrayList<>();
-        int n=digits.length;
-        int[] num=new int[3];
+        Set<Integer> set = new HashSet<>();
 
-        for(int i=0;i<n;i++){
-            if(digits[i]==0)
-            continue;
-            num[0]=digits[i];
-            for(int j=0;j<n;j++){
-                if(j==i)
-                continue;
-                num[1]=digits[j];
-                for(int k=0;k<n;k++){
-                    if(k==j||k==i)
-                    continue;
+        for(int i=0;i<digits.length;i++) {
+            if(digits[i]==0) continue;
 
-                    if(digits[k]%2!=0)
-                    continue;
+            for(int j=0;j<digits.length;j++) {
+                if(j==i) continue;
 
-                    num[2]=digits[k];
-                    int number=100*num[0]+num[1]*10+num[2];
+                for(int k=0; k<digits.length;k++) {
+                    if (k==i||k==j) continue;
 
-                    if(!ans.contains(number)){
-                        ans.add(number);
-                    }
+                    if(digits[k]%2!=0) continue;
+
+                    int number=digits[i]*100+digits[j]*10+digits[k];
+
+                    set.add(number);
                 }
             }
         }
-        return ans.size();
 
-        
+        return set.size();
     }
 }
