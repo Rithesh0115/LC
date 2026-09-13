@@ -48,6 +48,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rithesh0115/LC/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rithesh0115/LC/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithesh0115/LC/tree/master/3483-unique-3-digit-even-numbers) |
 | [3701-compute-alternating-sum](https://github.com/Rithesh0115/LC/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithesh0115/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
@@ -105,6 +106,7 @@
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rithesh0115/LC/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithesh0115/LC/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithesh0115/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rithesh0115/LC/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Rithesh0115/LC/tree/master/3945-digit-frequency-score) |
@@ -216,6 +218,7 @@
 | [0010-regular-expression-matching](https://github.com/Rithesh0115/LC/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Rithesh0115/LC/tree/master/0021-merge-two-sorted-lists) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithesh0115/LC/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rithesh0115/LC/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithesh0115/LC/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
