@@ -127,6 +127,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rithesh0115/LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rithesh0115/LC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh0115/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Rithesh0115/LC/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rithesh0115/LC/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rithesh0115/LC/tree/master/1025-divisor-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rithesh0115/LC/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -312,4 +313,8 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Rithesh0115/LC/tree/master/1791-find-center-of-star-graph) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rithesh0115/LC/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
