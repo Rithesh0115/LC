@@ -277,6 +277,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithesh0115/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh0115/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -317,4 +318,16 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rithesh0115/LC/tree/master/0836-rectangle-overlap) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithesh0115/LC/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithesh0115/LC/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithesh0115/LC/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
