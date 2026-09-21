@@ -197,6 +197,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh0115/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh0115/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rithesh0115/LC/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rithesh0115/LC/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rithesh0115/LC/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rithesh0115/LC/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Rithesh0115/LC/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
