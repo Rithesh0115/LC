@@ -82,6 +82,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rithesh0115/LC/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Rithesh0115/LC/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Rithesh0115/LC/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Rithesh0115/LC/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rithesh0115/LC/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh0115/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh0115/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Rithesh0115/LC/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Rithesh0115/LC/tree/master/0012-integer-to-roman) |
+| [0115-distinct-subsequences](https://github.com/Rithesh0115/LC/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Rithesh0115/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rithesh0115/LC/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
