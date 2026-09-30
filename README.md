@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/Rithesh0115/LC/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rithesh0115/LC/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Rithesh0115/LC/tree/master/0877-stone-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Rithesh0115/LC/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh0115/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rithesh0115/LC/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rithesh0115/LC/tree/master/1480-running-sum-of-1d-array) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Rithesh0115/LC/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Rithesh0115/LC/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rithesh0115/LC/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rithesh0115/LC/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rithesh0115/LC/tree/master/1929-concatenation-of-array) |
