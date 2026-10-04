@@ -75,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/Rithesh0115/LC/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rithesh0115/LC/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rithesh0115/LC/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Rithesh0115/LC/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rithesh0115/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -210,6 +211,7 @@
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Rithesh0115/LC/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh0115/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Rithesh0115/LC/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh0115/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rithesh0115/LC/tree/master/3498-reverse-degree-of-a-string) |
