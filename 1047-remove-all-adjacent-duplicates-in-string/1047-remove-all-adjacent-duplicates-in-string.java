@@ -3,10 +3,10 @@ class Solution {
         Stack<Character> st=new Stack<>();
 
         for(char ch:s.toCharArray()){
-            if(st.isEmpty() || st.peek()!=ch ){
-                st.push(ch);
-            }else{
+            if(!st.isEmpty() && st.peek()==ch ){
                 st.pop();
+            }else{
+                st.push(ch);
             }
         }
         StringBuilder sb=new StringBuilder();
