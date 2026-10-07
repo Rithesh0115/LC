@@ -214,6 +214,7 @@
 | [0771-jewels-and-stones](https://github.com/Rithesh0115/LC/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rithesh0115/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rithesh0115/LC/tree/master/1108-defanging-an-ip-address) |
+| [1544-make-the-string-great](https://github.com/Rithesh0115/LC/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh0115/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Rithesh0115/LC/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rithesh0115/LC/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -304,6 +305,7 @@
 | [0020-valid-parentheses](https://github.com/Rithesh0115/LC/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rithesh0115/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rithesh0115/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Rithesh0115/LC/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh0115/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
